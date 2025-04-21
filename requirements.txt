@@ -1,0 +1,7 @@
+# Imports
+seaborn
+matplotlib
+pandas
+scipy
+scikit-learn
+ipykernel
